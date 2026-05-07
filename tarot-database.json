@@ -2,7 +2,7 @@
   "Major": [
     {
       "name": "The Fool",
-      "image": "https://ibb.co/XfPhzXSK",
+      "image": "https://i.ibb.co/dsvdQBGV/0-The-Fool.png",
       "represents": {
         "planet": "Uranus",
         "zodiac": "Aquarius",
@@ -21,7 +21,7 @@
     },
     {
       "name": "The Magician",
-      "image": "https://ibb.co/QSSznrz",
+      "image": "https://i.ibb.co/Hww1Yn1/1-The-Magician.png",
       "represents": {
         "planet": "Mercury",
         "zodiac": "Gemini, Virgo",
@@ -40,7 +40,7 @@
     },
     {
       "name": "The High Priestess",
-      "image": "https://ibb.co/7JQvK6ks",
+      "image": "https://i.ibb.co/JRqnHM3D/2-The-High-Priestess.png",
       "represents": {
         "planet": "Moon",
         "zodiac": "Cancer",
@@ -59,7 +59,7 @@
     },
     {
       "name": "The Empress",
-      "image": "https://ibb.co/BH4H8STy",
+      "image": "https://i.ibb.co/GfsfgbCW/3-The-Empress.png",
       "represents": {
         "planet": "Venus",
         "zodiac": "Taurus, Libra",
@@ -78,7 +78,7 @@
     },
     {
       "name": "The Emperor",
-      "image": "https://ibb.co/KpX7Chjv",
+      "image": "https://i.ibb.co/mVGtQTCW/4-The-Emperor.png",
       "represents": {
         "planet": "Mars",
         "zodiac": "Aries",
@@ -97,7 +97,7 @@
     },
     {
       "name": "The Hierophant",
-      "image": "https://ibb.co/bMYF6Wy6",
+      "image": "https://i.ibb.co/W470HxdH/5-The-Hierophant.png",
       "represents": {
         "planet": "Venus",
         "zodiac": "Taurus",
@@ -116,7 +116,7 @@
     },
     {
       "name": "The Lovers",
-      "image": "https://ibb.co/sdVZ6S12",
+      "image": "https://i.ibb.co/ZpM0YsgV/6-The-Lovers.png",
       "represents": {
         "planet": "Mercury",
         "zodiac": "Gemini",
@@ -135,7 +135,7 @@
     },
     {
       "name": "The Chariot",
-      "image": "https://ibb.co/zhWHtcjg",
+      "image": "https://i.ibb.co/PZszVp3y/7-The-Chariot.png",
       "represents": {
         "planet": "Moon",
         "zodiac": "Cancer",
@@ -154,7 +154,7 @@
     },
     {
       "name": "Strength",
-      "image": "Determination / Journey / Victory That Must Be Earned",
+      "image": "",
       "represents": {
         "planet": "Sun",
         "zodiac": "Leo",
@@ -173,7 +173,7 @@
     },
     {
       "name": "The Hermit",
-      "image": "https://ibb.co/9m8Yb5yX",
+      "image": "https://i.ibb.co/ZRLTBDcs/9-The-Hermit.png",
       "represents": {
         "planet": "Mercury",
         "zodiac": "Virgo",
@@ -192,7 +192,7 @@
     },
     {
       "name": "Wheel of Fortune",
-      "image": "https://ibb.co/CpZCdsZr",
+      "image": "https://i.ibb.co/qLfqGFfZ/10-Wheel-of-Fortune.png",
       "represents": {
         "planet": "Jupiter",
         "zodiac": "Sagittarius",
@@ -211,7 +211,7 @@
     },
     {
       "name": "Justice",
-      "image": "https://ibb.co/FbVp1ttK",
+      "image": "https://i.ibb.co/pvyqTppx/11-Justice.png",
       "represents": {
         "planet": "Venus",
         "zodiac": "Libra",
@@ -230,7 +230,7 @@
     },
     {
       "name": "The Hanged Man",
-      "image": "https://ibb.co/9HdRk0gv",
+      "image": "https://i.ibb.co/GQrg4DpJ/12-The-Hanged-Man.png",
       "represents": {
         "planet": "Neptune",
         "zodiac": "Pisces",
@@ -249,7 +249,7 @@
     },
     {
       "name": "Death",
-      "image": "https://ibb.co/4RYmc5jh",
+      "image": "https://i.ibb.co/nMngT5Dx/13-Death.png",
       "represents": {
         "planet": "Mars, Pluto",
         "zodiac": "Scorpio",
@@ -268,7 +268,7 @@
     },
     {
       "name": "Temperance",
-      "image": "https://ibb.co/W4Wx7ckb",
+      "image": "https://i.ibb.co/1tfvB9rD/14-Temperance.png",
       "represents": {
         "planet": "Jupiter",
         "zodiac": "Sagittarius",
@@ -287,7 +287,7 @@
     },
     {
       "name": "The Devil",
-      "image": "https://ibb.co/FbCbD974",
+      "image": "https://i.ibb.co/jvsvrd4k/15-The-Devil.png",
       "represents": {
         "planet": "Saturn",
         "zodiac": "Capricorn",
@@ -306,7 +306,7 @@
     },
     {
       "name": "The Tower",
-      "image": "https://ibb.co/q3SchGhF",
+      "image": "https://i.ibb.co/mVj2dsdF/16-The-Tower.png",
       "represents": {
         "planet": "Mars",
         "zodiac": "Aries, Scorpio",
@@ -325,7 +325,7 @@
     },
     {
       "name": "The Star",
-      "image": "https://ibb.co/5xC16Y62",
+      "image": "https://i.ibb.co/93BpNwNG/17-The-Star.png",
       "represents": {
         "planet": "Uranus",
         "zodiac": "Aquarius",
@@ -344,7 +344,7 @@
     },
     {
       "name": "The Moon",
-      "image": "https://ibb.co/1t5qhMN7",
+      "image": "https://i.ibb.co/W4wyq0XG/18-The-Moon.png",
       "represents": {
         "planet": "Neptune",
         "zodiac": "Pieces",
@@ -363,7 +363,7 @@
     },
     {
       "name": "The Sun",
-      "image": "https://ibb.co/F4MttXFM",
+      "image": "https://i.ibb.co/HTsQQCjs/19-The-Sun.png",
       "represents": {
         "planet": "Sun",
         "zodiac": "Leo",
@@ -382,7 +382,7 @@
     },
     {
       "name": "Judgement",
-      "image": "https://ibb.co/CshbphYq",
+      "image": "https://i.ibb.co/Tqm4Dm7Z/20-Judgement.png",
       "represents": {
         "planet": "Pluto",
         "zodiac": "Scorpio",
@@ -401,7 +401,7 @@
     },
     {
       "name": "The World",
-      "image": "",
+      "image": "https://i.ibb.co/v4Q0kc9J/21-The-World.png",
       "represents": {
         "planet": "Saturn",
         "zodiac": "All",
