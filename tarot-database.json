@@ -1,0 +1,424 @@
+{
+  "Major": [
+    {
+      "name": "The Fool",
+      "image": "https://ibb.co/XfPhzXSK",
+      "represents": {
+        "planet": "Uranus",
+        "zodiac": "Aquarius",
+        "element": "Air"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Freedom, Innocence, Beginning",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Magician",
+      "image": "https://ibb.co/QSSznrz",
+      "represents": {
+        "planet": "Mercury",
+        "zodiac": "Gemini, Virgo",
+        "element": "Air"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Wit, Eloquence, The Power of Words",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The High Priestess",
+      "image": "https://ibb.co/7JQvK6ks",
+      "represents": {
+        "planet": "Moon",
+        "zodiac": "Cancer",
+        "element": "Water"
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "Inner Wisdom, Silence, Mystery",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Empress",
+      "image": "https://ibb.co/BH4H8STy",
+      "represents": {
+        "planet": "Venus",
+        "zodiac": "Taurus, Libra",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Compassion, Forgiveness, Abundance",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Emperor",
+      "image": "https://ibb.co/KpX7Chjv",
+      "represents": {
+        "planet": "Mars",
+        "zodiac": "Aries",
+        "element": "Fire"
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "Power, Order, Structure",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Hierophant",
+      "image": "https://ibb.co/bMYF6Wy6",
+      "represents": {
+        "planet": "Venus",
+        "zodiac": "Taurus",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "Tradition, Education, Linear Wisdom",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Lovers",
+      "image": "https://ibb.co/sdVZ6S12",
+      "represents": {
+        "planet": "Mercury",
+        "zodiac": "Gemini",
+        "element": "Air"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Choice, Crossroads, Consequences of Virtue and Cunning",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Chariot",
+      "image": "https://ibb.co/zhWHtcjg",
+      "represents": {
+        "planet": "Moon",
+        "zodiac": "Cancer",
+        "element": "Water"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Determination, Journey, Victory That Must Be Earned",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Strength",
+      "image": "Determination / Journey / Victory That Must Be Earned",
+      "represents": {
+        "planet": "Sun",
+        "zodiac": "Leo",
+        "element": "Fire"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Wit over Force, Calm, Non-violent Control",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Hermit",
+      "image": "https://ibb.co/9m8Yb5yX",
+      "represents": {
+        "planet": "Mercury",
+        "zodiac": "Virgo",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "Self-Reflection, Concealment, Light in Darkness",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Wheel of Fortune",
+      "image": "https://ibb.co/CpZCdsZr",
+      "represents": {
+        "planet": "Jupiter",
+        "zodiac": "Sagittarius",
+        "element": "Fire"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Cycle, Fate, The Turning of Life",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Justice",
+      "image": "https://ibb.co/FbVp1ttK",
+      "represents": {
+        "planet": "Venus",
+        "zodiac": "Libra",
+        "element": "Air"
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "Law, Logic, Justice That Can Be Interpreted",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Hanged Man",
+      "image": "https://ibb.co/9HdRk0gv",
+      "represents": {
+        "planet": "Neptune",
+        "zodiac": "Pisces",
+        "element": "Water"
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "Surrender, Inverted Perspective, Patient Waiting",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Death",
+      "image": "https://ibb.co/4RYmc5jh",
+      "represents": {
+        "planet": "Mars, Pluto",
+        "zodiac": "Scorpio",
+        "element": "Water"
+      },
+      "upright": {
+        "yesno": "No",
+        "tags": "Transformation, Ending, Rebirth from Loss",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Temperance",
+      "image": "https://ibb.co/W4Wx7ckb",
+      "represents": {
+        "planet": "Jupiter",
+        "zodiac": "Sagittarius",
+        "element": "Fire"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Balance, Fluidity, Integration",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Devil",
+      "image": "https://ibb.co/FbCbD974",
+      "represents": {
+        "planet": "Saturn",
+        "zodiac": "Capricorn",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "No",
+        "tags": "Shadow Side, Bondage, Inescapable Agreements",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Tower",
+      "image": "https://ibb.co/q3SchGhF",
+      "represents": {
+        "planet": "Mars",
+        "zodiac": "Aries, Scorpio",
+        "element": "Fire"
+      },
+      "upright": {
+        "yesno": "No",
+        "tags": "Collapse, Words as Cause, Sudden Loss",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Star",
+      "image": "https://ibb.co/5xC16Y62",
+      "represents": {
+        "planet": "Uranus",
+        "zodiac": "Aquarius",
+        "element": "Air"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Hope, Renown, Recognition",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Moon",
+      "image": "https://ibb.co/1t5qhMN7",
+      "represents": {
+        "planet": "Neptune",
+        "zodiac": "Pieces",
+        "element": "Water"
+      },
+      "upright": {
+        "yesno": "No",
+        "tags": "Illusion, Confusion, Unseen Enemies",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The Sun",
+      "image": "https://ibb.co/F4MttXFM",
+      "represents": {
+        "planet": "Sun",
+        "zodiac": "Leo",
+        "element": "Fire"
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "Honour, Glory, Acceptance",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Judgement",
+      "image": "https://ibb.co/CshbphYq",
+      "represents": {
+        "planet": "Pluto",
+        "zodiac": "Scorpio",
+        "element": "Fire"
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "Reckoning, Karma, Late Awakening",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "The World",
+      "image": "",
+      "represents": {
+        "planet": "Saturn",
+        "zodiac": "All",
+        "element": "Earth"
+      },
+      "upright": {
+        "yesno": "",
+        "tags": "Completion, Whole Cycle, Lesson Passed On",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "",
+        "tags": "",
+        "description": ""
+      }
+    }
+  ],
+  "Minor": [],
+  "Oracle": []
+}
